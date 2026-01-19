@@ -7,15 +7,15 @@ Gem::Specification.new do |spec|
   spec.email         = ["mail@qwtel.com"]
 
   spec.summary       = %q{"A boutique Jekyll theme for hackers, nerds, and academics"}
-  spec.homepage      = "https://GreenWave.com/"
+  spec.homepage      = "https://GreencWave.com/"
   spec.license       = "GPL-3.0"
   spec.metadata = {
-    "bug_tracker_uri"   => "https://github.com/hydecorp/GreenWave/issues",
-    "changelog_uri"     => "https://GreenWave.com/changelog/",
-    "documentation_uri" => "https://GreenWave.com/docs/",
-    "homepage_uri"      => "https://GreenWave.com/",
-    "source_code_uri"   => "https://github.com/hydecorp/GreenWave/",
-    "github_repo"       => "ssh://github.com/hydecorp/GreenWave"
+    "bug_tracker_uri"   => "https://github.com/hydecorp/GreencWave/issues",
+    "changelog_uri"     => "https://GreencWave.com/changelog/",
+    "documentation_uri" => "https://GreencWave.com/docs/",
+    "homepage_uri"      => "https://GreencWave.com/",
+    "source_code_uri"   => "https://github.com/hydecorp/GreencWave/",
+    "github_repo"       => "ssh://github.com/hydecorp/GreencWave"
   }
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|_config.yml|README|LICENSE|NOTICE|CHANGELOG)}i) }
